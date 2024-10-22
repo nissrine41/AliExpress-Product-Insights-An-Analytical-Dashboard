@@ -29,7 +29,7 @@ The dataset includes the following fields:
 ### Tools and Technologies Used
 
 - **Python:** For data manipulation and analysis using libraries like Pandas and NumPy.
-- **Data Visualization:** Tools like Matplotlib or Seaborn for visualizing product trends and performance metrics.
+- **Data Visualization:** Power BI,DAX ,Power Query for visualizing product trends and performance .
 - **Jupyter Notebook:** For documenting the analysis process and results.
 
 ### Key Findings
