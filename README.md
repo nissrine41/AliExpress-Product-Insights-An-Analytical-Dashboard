@@ -40,4 +40,4 @@ The dataset includes the following fields:
 - Recommendations for optimizing product listings and marketing strategies based on data analysis.
 ### Data Repository
 
-You can access the dataset and additional resources in the following repository: [AliExpress Product Data](<insert_link_here>)
+You can access the dataset and additional resources in the following repository: [AliExpress Product Data](<[insert_link_here](https://github.com/nissrine41/scraped-arabic-infos-product-data-Jumia-Aliexpress-Amazon)>)
